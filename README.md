@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Caster Jarette Orticio (NuLi)
 
-### Cyber-Physical Systems Engineer | Embedded Developer | Full-Stack Integrator
+### Computer Engineering Student | Aspiring Embedded Systems Engineer | Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=198754&width=500&lines=Computer+Engineering+Student;Embedded+Systems+Engineer;Full-Stack+Web+Developer;IoT+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=198754&width=500&lines=Computer+Engineering+Student;Aspiring+Embedded+Engineer;Full-Stack+Web+Developer;IoT+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -41,12 +41,22 @@ I am a Computer Engineering student specializing in **bridging the gap between h
 
 ---
 
-## 📈 Engineering Stats
+## 📈 Engineering Progress & Trophies
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NuLiVed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuLiVed&layout=compact&theme=dark"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NuLiVed&theme=dracula&no-frame=true&column=4&margin-w=15" alt="NuLiVed Trophies" />
+  </a>
 </p>
 
+### **Top Proficiency Levels**
+![C#](https://img.shields.io/badge/C%23-Advanced-green) ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-blue) ![ASP.NET](https://img.shields.io/badge/ASP.NET-Competent-blueviolet) ![Embedded_IoT](https://img.shields.io/badge/IoT_Systems-Advanced-orange)
+
+---
+
+## 💻 Activity Overview
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuLiVed&theme=dracula&hide_border=true&area=true" width="100%" />
+</p>
 ---
 
 ## 📫 Let's Connect
