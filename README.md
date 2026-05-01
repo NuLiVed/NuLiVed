@@ -2,7 +2,7 @@
 
 ### Cyber-Physical Systems Engineer | Embedded Developer | Full-Stack Integrator
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=198754&width=500&lines=Computer+Engineering+Student;Embedded+Systems+Engineer;Full-Stack+Web+Developer;Linux+%26+IoT+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=198754&width=500&lines=Computer+Engineering+Student;Embedded+Systems+Engineer;Full-Stack+Web+Developer;IoT+Developer)](https://git.io/typing-svg)
 
 ---
 
